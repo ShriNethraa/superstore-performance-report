@@ -1,4 +1,4 @@
-# superstore-performance-report
+# Superstore-Performance-Report
 **Tools Used:** Power BI, Power Query
 
 ## Overview
